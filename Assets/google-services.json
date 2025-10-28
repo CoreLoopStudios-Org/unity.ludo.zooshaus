@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419171290655",
+    "project_id": "ludo-with-friends-25c86",
+    "storage_bucket": "ludo-with-friends-25c86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419171290655:android:c4552b86cc5c72f43fcf2a",
+        "android_client_info": {
+          "package_name": "com.ssgamingunity3d.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240013857836-8p56merrbu3qs6spap2eikv01c62sn5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssgamingunity3d.googlesignin",
+            "certificate_hash": "8ec101801ff0e8d958c885d912338653015346eb"
+          }
+        },
+        {
+          "client_id": "240013857836-20pl4huabi7chr17ss8pg7qobd09caae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmMCtwzRoUsKrYcUmLVXYyyzRVVsEPYJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240013857836-20pl4huabi7chr17ss8pg7qobd09caae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
