@@ -22,12 +22,12 @@ public class ChangeStoreTabsColor : MonoBehaviour
 
     public GameObject[] tabs;
 
-    private Color normalColor;
-    private Color otherColor = new Color(0, 51.0f / 255f, 120.0f / 255.0f);
+    public Sprite normalColor;
+    public Sprite otherColor;
     // Use this for initialization
     void Start()
     {
-        normalColor = tabs[2].GetComponent<Image>().color;
+        normalColor = tabs[2].GetComponent<Image>().sprite;
 
         SetSelectectedTab(2);
 
@@ -39,12 +39,12 @@ public class ChangeStoreTabsColor : MonoBehaviour
         {
             if (i != index)
             {
-                tabs[i].GetComponent<Image>().color = otherColor;
+                tabs[i].GetComponent<Image>().sprite = otherColor;
 
             }
             else
             {
-                tabs[i].GetComponent<Image>().color = normalColor;
+                tabs[i].GetComponent<Image>().sprite = normalColor;
             }
         }
 
