@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a0d7796-860e-462c-a4cd-9cc3f07cc341" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity.ludo.zooshaus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity.ludo.zooshaus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/LudoPawn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/LudoPawn.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/ProgressBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/ProgressBar.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LoginSplash.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LoginSplash.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +113,7 @@
       <updated>1762254748354</updated>
       <workItem from="1762254750166" duration="856000" />
       <workItem from="1762255884321" duration="333000" />
+      <workItem from="1762416917099" duration="1471000" />
     </task>
     <servers />
   </component>
