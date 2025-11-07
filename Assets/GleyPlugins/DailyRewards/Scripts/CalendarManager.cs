@@ -14,7 +14,7 @@
         private GameObject canvas;
         private GameObject popup;
         private DateTime savedTime;
-        private TimeSpan timeToPass;
+        private TimeSpan timeToPass = TimeSpan.FromHours(24);
         public int savedDay;
         private bool resetAtEnd;
         private bool initialized;

@@ -1137,7 +1137,11 @@ namespace PlayFab
         /// </summary>
         public static void UpdateUserData(UpdateUserDataRequest request, ProcessApiCallback<UpdateUserDataResult> resultCallback, ErrorCallback errorCallback, object customData = null)
         {
-            if (_authKey == null) throw new Exception("Must be logged in to call this method");
+            if (_authKey == null)
+            {
+                Debug.LogError("Must be logged in to call this method");
+                return;
+            }
 
             string serializedJson = SimpleJson.SerializeObject(request, Util.ApiSerializerStrategy);
             Action<CallRequestContainer> callback = delegate(CallRequestContainer requestContainer)

@@ -83,7 +83,7 @@ namespace EasyUI.PickerWheelUI
             Transform pickerWheelTransform = GetComponent<Transform>();
 
             // Set the scale to (2.2, 2.2, 2.2)
-            pickerWheelTransform.localScale = new Vector3(0.7f, 0.7f, 0.7f);
+            pickerWheelTransform.localScale = new Vector3(1.5f, 1.5f, 1f);
             // mycoin.text = PlayerPrefs.GetInt("coin", 0).ToString();
         }
         private void SetupAudio()

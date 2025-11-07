@@ -6,24 +6,36 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0d7796-860e-462c-a4cd-9cc3f07cc341" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.unity.ludo.zooshaus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity.ludo.zooshaus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/LudoPawn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/LudoPawn.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/ProgressBar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/ProgressBar.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LoginSplash.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LoginSplash.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MyPlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MyPlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PickerWheel/Prefabs/PickerWheel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PickerWheel/Prefabs/PickerWheel.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PickerWheel/Scripts/PickerWheel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PickerWheel/Scripts/PickerWheel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayFabSDK/Public/PlayFabClientAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayFabSDK/Public/PlayFabClientAPI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/betopia/Documents/GitHub/unity.ludo.zooshaus/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChangeStoreTabsColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/betopia/Documents/GitHub/unity.ludo.zooshaus/Assets/PickerWheel/Scripts/Demo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/betopia/Documents/GitHub/unity.ludo.zooshaus/Assets/PickerWheel/Scripts/PickerWheel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/betopia/Documents/GitHub/unity.ludo.zooshaus/Assets/PickerWheel/Scripts/PickerWheel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/de80aed0bd3646409e8bfb15c101f005e2000/01/957800f0/Dictionary`2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -33,20 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;UI&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "UI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/6000.0.59f2/Unity.app/Contents/MacOS/Unity" />
@@ -86,13 +99,15 @@
       <option name="useMixedMode" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="1400">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="1400" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
-        <list />
+        <list>
+          <MonoRuntime />
+        </list>
       </option>
       <option name="selectedOptions">
         <list />
@@ -114,12 +129,14 @@
       <workItem from="1762254750166" duration="856000" />
       <workItem from="1762255884321" duration="333000" />
       <workItem from="1762416917099" duration="1471000" />
+      <workItem from="1762505820890" duration="1953000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
@@ -145,6 +162,19 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs</url>
+          <line>160</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" containingFunctionPresentation="Method 'TimeExpired'">
+            <startOffsets>
+              <option value="5210" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5268" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

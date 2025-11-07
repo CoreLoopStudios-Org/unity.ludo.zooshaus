@@ -21,7 +21,6 @@ using UnityEngine;
 
 public class MyPlayerData
 {
-
     public static string TitleFirstLoginKey = "TitleFirstLogin";
     public static string TotalEarningsKey = "TotalEarnings";
     public static string GamesPlayedKey = "GamesPlayed";
@@ -34,7 +33,7 @@ public class MyPlayerData
     public static string AvatarIndexKey = "AvatarIndex";
     public static string FortuneWheelLastFreeKey = "FortuneWheelLastFreeTime";
 
-    public Dictionary<string, UserDataRecord> data;
+    public Dictionary<string, UserDataRecord> data = new();
 
     public int GetCoins()
     {
@@ -94,7 +93,6 @@ public class MyPlayerData
         if (this.data.ContainsKey(FortuneWheelLastFreeKey))
         {
             return this.data[FortuneWheelLastFreeKey].Value;
-
         }
         else
         {
@@ -107,8 +105,10 @@ public class MyPlayerData
     }
 
 
+    public MyPlayerData()
+    {
+    }
 
-    public MyPlayerData() { }
     public MyPlayerData(Dictionary<string, UserDataRecord> data, bool myData)
     {
         this.data = data;
@@ -122,20 +122,19 @@ public class MyPlayerData
             }
             else
             {
-                GameManager.Instance.avatarMy = GameObject.Find("StaticGameVariablesContainer").GetComponent<StaticGameVariablesController>().avatars[int.Parse(GetAvatarIndex())];
+                GameManager.Instance.avatarMy = GameObject.Find("StaticGameVariablesContainer")
+                    .GetComponent<StaticGameVariablesController>().avatars[int.Parse(GetAvatarIndex())];
             }
 
             GameManager.Instance.nameMy = GetPlayerName();
         }
+
         Debug.Log("MY DATA LOADED");
-
     }
-
 
 
     public void UpdateUserData(Dictionary<string, string> data)
     {
-
         if (this.data != null)
             foreach (var item in data)
             {
@@ -144,7 +143,6 @@ public class MyPlayerData
                 {
                     Debug.Log("AA");
                     this.data[item.Key].Value = item.Value;
-
                 }
             }
 
@@ -154,15 +152,8 @@ public class MyPlayerData
             Permission = UserDataPermission.Public
         };
 
-        PlayFabClientAPI.UpdateUserData(userDataRequest, (result1) =>
-        {
-            Debug.Log("Data updated successfull ");
-
-        }, (error1) =>
-        {
-            Debug.Log("Data updated error " + error1.ErrorMessage);
-        }, null);
-
+        PlayFabClientAPI.UpdateUserData(userDataRequest, (result1) => { Debug.Log("Data updated successfull "); },
+            (error1) => { Debug.Log("Data updated error " + error1.ErrorMessage); }, null);
     }
 
     public static Dictionary<string, string> InitialUserData(bool fb)
@@ -180,7 +171,6 @@ public class MyPlayerData
         {
             data.Add(CoinsKey, StaticStrings.initCoinsCountGuest.ToString());
             data.Add(AvatarIndexKey, "0");
-           
         }
 
         data.Add(GamesPlayedKey, "0");
@@ -191,6 +181,4 @@ public class MyPlayerData
         data.Add(FortuneWheelLastFreeKey, DateTime.Now.Ticks.ToString());
         return data;
     }
-
-
 }
