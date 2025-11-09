@@ -441,31 +441,31 @@ MonoBehaviour:
   spinDuration: 20
   wheelSize: 2
   wheelPieces:
-  - Icon: {fileID: 21300000, guid: 74cddf32deac74d46a33848c53705833, type: 3}
+  - Icon: {fileID: 21300000, guid: e623a024b662c41eeac576be235e269f, type: 3}
     Label: Get 100 Coins
     Amount: 100
     Chance: 100
     Index: 0
     _weight: 0
-  - Icon: {fileID: 21300000, guid: 9ca606c96390734428a99fe0aa4856f1, type: 3}
+  - Icon: {fileID: 21300000, guid: e623a024b662c41eeac576be235e269f, type: 3}
     Label: Get 200 Coins
     Amount: 200
     Chance: 100
     Index: 0
     _weight: 0
-  - Icon: {fileID: 21300000, guid: fa0f5d8958930d94f9d0f347c4396764, type: 3}
+  - Icon: {fileID: 21300000, guid: e623a024b662c41eeac576be235e269f, type: 3}
     Label: Get 300 Coins
     Amount: 300
     Chance: 60
     Index: 0
     _weight: 0
-  - Icon: {fileID: 21300000, guid: fbc1ee8f31d18ca4f8f52e2f057b22fd, type: 3}
+  - Icon: {fileID: 21300000, guid: e623a024b662c41eeac576be235e269f, type: 3}
     Label: Get 400 Coins
     Amount: 400
     Chance: 25
     Index: 0
     _weight: 0
-  - Icon: {fileID: 21300000, guid: fbc1ee8f31d18ca4f8f52e2f057b22fd, type: 3}
+  - Icon: {fileID: 21300000, guid: e623a024b662c41eeac576be235e269f, type: 3}
     Label: Get 500 Coins
     Amount: 500
     Chance: 10

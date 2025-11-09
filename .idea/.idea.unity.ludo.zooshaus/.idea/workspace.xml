@@ -6,14 +6,1520 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0d7796-860e-462c-a4cd-9cc3f07cc341" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.unity.ludo.zooshaus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity.ludo.zooshaus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MyPlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MyPlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/BDM.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/BDM.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/BGM.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/BGM.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Facebooklogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Facebooklogin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/4202107facebookfblogosocialsocialmedia-115710_115591.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/4202107facebookfblogosocialsocialmedia-115710_115591.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Backgroun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Backgroun.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Facebooklogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Facebooklogin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/France_flag_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/France_flag_icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/engg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/engg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/flag-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/flag-400.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/greek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Floags/greek.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Guest Mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Guest Mode.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/InterAdsCaller.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/InterAdsCaller.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Layer 0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Layer 0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Pannel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Pannel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/Quick Zap.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/Quick Zap.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/ffonts.net.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/ffonts.net.htm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/ffonts.net.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/ffonts.net.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/install-a-new-font.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/install-a-new-font.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/quick_tips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Quick-Zap/quick_tips.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Setting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Setting.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Tag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Tag.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/Win.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi/Berlin Sans FB Demi Bold.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi/Berlin Sans FB Demi Bold/Berlin Sans FB Demi Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi/Berlin Sans FB Demi Bold/Berlin Sans FB Demi Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi/Berlin Sans FB Demi Bold/readme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/berlin-sans-fb-demi-bold_7enLi/Berlin Sans FB Demi Bold/readme.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/blue (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/blue (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/buy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/buy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/cancel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/coin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/coins bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/coins bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/complete panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/complete panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/empty green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/empty green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/empty orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/empty orange.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/empty red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/empty red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/errors.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/icon (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/icon (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/left.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/orange.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/play.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/plus (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/plus (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/plus.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/reward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/reward.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/showrewarded.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/showrewarded.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/watch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/watch.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/Ludo Game UI-assets/white.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/coin4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/facebook-png-transparent-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/facebook-png-transparent-12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/Ludo Game UI-assets/panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/mymusic.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/001_Data/mymusic.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Available.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Available.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Back.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/DailyReward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/DailyReward.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Day Selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Day Selected.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Facebook.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/DINBOLD.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/DINBOLD.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/FZLT.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/FZLT.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/Itim-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/Itim-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/walibi-holland.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Font/walibi-holland.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/FreeAds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/FreeAds.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Freespin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Freespin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Google Sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Google Sign.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Guest.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Lock.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/LoginWithGoogle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/LoginWithGoogle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Ludopbg.png (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Ludopbg.png (2).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Rate.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2024-03-14 000909.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2024-03-14 000909.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 020423.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 020423.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 020758.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 020758.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 020807.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 020807.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 023801.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 023801.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 024654.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Screenshot 2025-10-12 024654.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Setting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Setting.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Unlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/Unlock.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/spin wheel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01-Zooshaus/spin wheel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Doc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Doc/2DxFX.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Doc/2DxFX.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForBlackHole_Galaxy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForBlackHole_Galaxy.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForGrassFX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForGrassFX.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForProgressBar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForProgressBar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForWaterFall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForWaterFall.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForWaterWithBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Examples/ExampleForWaterWithBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-blur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-blur.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-brightness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-brightness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_down.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_left.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_right.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-clip_up.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-contrast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-contrast.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-corner-5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-distortion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-distortion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-edge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-edge.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-fade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-fade.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-inout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-inout.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-pixel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-pixel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-seed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-seed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-size.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-size.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-size_x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-size_x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-size_y.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-size_y.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-time.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-value.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-icon-value.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx-p-4g4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx_AL.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx_AL/_2dxFX_AL_Shiny_Reflect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfx_AL/_2dxFX_AL_Shiny_Reflect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfxinspector-al.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfxinspector-al.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfxinspector-anim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfxinspector-anim.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfxinspector.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/2dxfxinspector.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Additive.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Additive.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Color.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Color.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_FireTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_FireTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_FlameTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_FlameTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_FrozenTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_FrozenTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_GoldFX.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_GoldFX.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Gradient.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Gradient.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_LightningTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_LightningTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_PixelDieTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_PixelDieTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Posterize.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Posterize.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_ShadowTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_ShadowTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Shiny_Reflect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_Shiny_Reflect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_SmokeTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_SmokeTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_WaterTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_WaterTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_WaterfallTXT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Resources/_2dxFX_WaterfallTXT.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_4Gradients.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_4Gradients.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_BlackHole.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_BlackHole.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Blood.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Blood.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Blur.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Blur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_BurningFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_BurningFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Cartoon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Cartoon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_CircleFade.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_CircleFade.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Clipping.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Clipping.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Color.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Color.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_ColorChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_ColorChange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_ColorRGB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_ColorRGB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_CompressionFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_CompressionFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_DesintegrationFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_DesintegrationFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_DestroyedFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_DestroyedFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Distortion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Distortion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_EdgeColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_EdgeColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_EnergyBar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_EnergyBar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Fire.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Fire.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Flame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Flame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Frozen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Frozen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Ghost.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Ghost.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GoldFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GoldFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GoldenFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GoldenFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GrassFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GrassFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GrassMultiFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GrassMultiFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GrayScale.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_GrayScale.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_HSV.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_HSV.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Heat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Heat.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Hologram.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Hologram.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Hologram2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Hologram2.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Hologram3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Hologram3.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Ice.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Ice.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_IcedFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_IcedFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Jelly.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Jelly.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_JellyAutoMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_JellyAutoMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Lightning.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Lightning.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_LightningBolt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_LightningBolt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Liquid.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Liquid.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Liquify.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Liquify.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_MetalFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_MetalFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Mystic_Distortion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Mystic_Distortion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Negative.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Negative.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Noise.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Noise.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_NoiseAnimated.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_NoiseAnimated.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Normal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Normal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Offset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Offset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Outline.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Outline.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pattern.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pattern.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel8bitsBW.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel8bitsBW.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel8bitsC64.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel8bitsC64.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel8bitsGB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Pixel8bitsGB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_PixelDie.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_PixelDie.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_PlasmaRainbow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_PlasmaRainbow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_PlasmaShield.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_PlasmaShield.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Posterize.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Posterize.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_SandFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_SandFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Sepia.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Sepia.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Sharpen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Sharpen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Shiny_Reflect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Shiny_Reflect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_SkyCloud.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_SkyCloud.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Slim.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Slim.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Smoke.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Smoke.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_StoneFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_StoneFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Threshold.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Threshold.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Twist.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_Twist.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_WoodFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/2dxfx_AL/_2dxFX_AL_WoodFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2DxFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2DxFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_4Gradients.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_4Gradients.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Additive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Additive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_BlackHole.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_BlackHole.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Blood.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Blood.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Blur.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Blur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_BurningFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_BurningFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_CircleFade.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_CircleFade.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Clipping.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Clipping.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Color.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Color.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_ColorChange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_ColorChange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_ColorRGB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_ColorRGB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_CompressionFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_CompressionFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_DesintegrationFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_DesintegrationFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_DestroyedFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_DestroyedFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Distortion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Distortion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Distortion_Additive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Distortion_Additive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_EdgeColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_EdgeColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_EnergyBar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_EnergyBar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Fire.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Fire.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_FireAdditive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_FireAdditive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Flame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Flame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Frozen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Frozen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Ghost.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Ghost.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GoldFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GoldFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GoldenFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GoldenFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GrassFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GrassFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GrassMultiFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GrassMultiFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GrayScale.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_GrayScale.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_HSV.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_HSV.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Heat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Heat.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Hologram.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Hologram.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Hologram2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Hologram2.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Hologram3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Hologram3.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Ice.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Ice.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_IcedFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_IcedFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Jelly.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Jelly.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_JellyAutoMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_JellyAutoMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Lightning.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Lightning.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_LightningBolt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_LightningBolt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Liquid.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Liquid.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Liquify.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Liquify.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_MetalFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_MetalFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Mystic_Distortion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Mystic_Distortion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Mystic_Distortion_Additive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Mystic_Distortion_Additive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Negative.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Negative.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Noise.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Noise.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_NoiseAnimated.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_NoiseAnimated.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Offset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Offset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Outline.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Outline.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pattern.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pattern.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PatternAdditive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PatternAdditive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel8bitsBW.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel8bitsBW.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel8bitsC64.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel8bitsC64.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel8bitsGB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Pixel8bitsGB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PixelDie.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PixelDie.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PlasmaRainbow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PlasmaRainbow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PlasmaRainbow_Color.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PlasmaRainbow_Color.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PlasmaShield.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_PlasmaShield.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Posterize.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Posterize.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_SandFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_SandFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Sepia.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Sepia.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Sharpen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Sharpen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Shiny_Reflect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Shiny_Reflect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_SkyCloud.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_SkyCloud.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Slim.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Slim.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Smoke.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Smoke.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_StoneFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_StoneFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Teleportation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Teleportation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Threshold.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Threshold.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Twist.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Twist.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_WaterAndBackground.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_WaterAndBackground.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_WaterAndBackgroundDeluxe.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_WaterAndBackgroundDeluxe.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Waterfall.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Waterfall.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Wave.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_Wave.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_WoodFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DxFX/Scripts/_2dxFX_WoodFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AdController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AdController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_3_0.so.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameSceneLanguage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameSceneLanguage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTitle.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameTitle.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AboutWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AboutWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AboutWindowProperties.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AboutWindowProperties.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AssetState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AssetState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AssetStorePackage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AssetStorePackage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AssetVersions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/AssetVersions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/EditorFileLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/EditorFileLoader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/IconReferences.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/IconReferences.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/IconReferences.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/IconReferences.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/AchievementsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/AchievementsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/CakeRushIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/CakeRushIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/CrossPromoIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/CrossPromoIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/DailyRewardsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/DailyRewardsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/DiscordIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/DiscordIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/EasyIAPIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/EasyIAPIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/FacebookIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/FacebookIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/GleyCover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/GleyCover.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/GleyLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/GleyLogo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/InstagramIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/InstagramIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/LocalizationIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/LocalizationIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/MobileAdsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/MobileAdsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/MobileToolsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/MobileToolsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/NotificationsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/NotificationsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/PedestrianSystemIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/PedestrianSystemIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/RateGameIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/RateGameIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/SaveIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/SaveIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/TrafficSystemIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/TrafficSystemIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/TrafficTruck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/TrafficTruck.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/TwitterIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/TwitterIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/UrbanIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/UrbanIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/VehiclesIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/VehiclesIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/WebsiteIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/WebsiteIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/YoutubeIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Editor/Icons/YoutubeIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Scripts/Version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/About/Scripts/Version.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/AssetVersion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/AssetVersion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/Constants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/Constants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/EditorUtilities.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/EditorUtilities.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/ISettingsWindowProperties.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/ISettingsWindowProperties.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/ImportRequiredPackages.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/ImportRequiredPackages.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/PreprocessorDirective.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/PreprocessorDirective.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/WindowLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/Common/Editor/WindowLoader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Documentation/Gley-MobileAds-Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Documentation/Gley-MobileAds-Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scenes/MobileAdsExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scenes/MobileAdsExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scenes/MobileAdsTest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scenes/MobileAdsTest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/ConsentPopup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/ConsentPopup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/LogWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/LogWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/MobileAdsExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/MobileAdsExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/MobileAdsTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Example/Scripts/MobileAdsTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Patches.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Prefabs/ConsentPopup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Prefabs/ConsentPopup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Prefabs/ConsentPopupCanvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Prefabs/ConsentPopupCanvas.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Resources/MobileAdsDataRuntime.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Resources/MobileAdsDataRuntime.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/AdvertiserSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/AdvertiserSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/AdmobSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/AdmobSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/ApplovinSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/ApplovinSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/LevelPlaySettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/LevelPlaySettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/UnitySettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/UnitySettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/VungleSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/Advertisers/VungleSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/EditorSave.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/EditorSave/MobileAdsDataEditor.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/EditorSave/MobileAdsDataEditor.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/IAdvertiserSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/IAdvertiserSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/MobileAdsSettingsData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/MobileAdsSettingsData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/PostBuildStep.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/PostBuildStep.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/SettingsWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/SettingsWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/SettingsWindowProperties.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Editor/SettingsWindowProperties.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/AdUnitID.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/AdUnitID.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertiser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertiser.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/AdmobImplementation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/AdmobImplementation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/AppLovinImplementation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/AppLovinImplementation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/DefaultImplementation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/DefaultImplementation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/IAdProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/IAdProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/LevelPlayImplementation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/LevelPlayImplementation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/UnityAdsImplementation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/UnityAdsImplementation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/VungleImplementation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Advertisers/VungleImplementation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Constants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Constants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums/SupportedAdvertisers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums/SupportedAdvertisers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums/SupportedPlatforms.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums/SupportedPlatforms.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums/UserConsent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/Enums/UserConsent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/GleyLogger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/GleyLogger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/MobileAdsData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/MobileAdsData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/MobileAdsManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/MobileAdsManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/PlatformSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/PlatformSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/HideBanner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/HideBanner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/HideMRec.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/HideMRec.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/InitializePlaymakerAds.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/InitializePlaymakerAds.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsAppOpenAvailable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsAppOpenAvailable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsInterstitialAvailable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsInterstitialAvailable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsRewardedInterstitialAvailable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsRewardedInterstitialAvailable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsRewardedVideoAvailable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/IsRewardedVideoAvailable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/RemoveAds.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/RemoveAds.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/SetConsentToNo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/SetConsentToNo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/SetConsentToYes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/SetConsentToYes.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowAppOpen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowAppOpen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowBanner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowBanner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowBuiltInConsentPopup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowBuiltInConsentPopup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowInterstitial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowInterstitial.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowMRec.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowMRec.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowRewardedInterstitial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowRewardedInterstitial.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowRewardedVideo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/ShowRewardedVideo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/UserConsentWasSet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Actions/UserConsentWasSet.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Prefabs/InitializeGleyAds.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/Playmaker/Prefabs/InitializeGleyAds.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/EventNames.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/EventNames.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/MobileAdsUVS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/MobileAdsUVS.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnAppOpenClosed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnAppOpenClosed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnConsentPopupClosed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnConsentPopupClosed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnInitialized.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnInitialized.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnInterstitialClosed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnInterstitialClosed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnRewardedInterstitialClosed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnRewardedInterstitialClosed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnRewardedVideoClosed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Internal/VisualScriptingSupport/UVS/OnRewardedVideoClosed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/APIMobileAds.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/APIMobileAds.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/BannerPosition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/BannerPosition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/BannerType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/BannerType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/Events.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/ToUse/Events.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gley/MobileAds/Scripts/Version.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Animations/CalendarPopup.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Animations/CalendarPopup.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Animations/CalendarPopupAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Animations/CalendarPopupAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyReward.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyReward.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/AutoMoveAndRotate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/AutoMoveAndRotate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Car.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Coinpack6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/DailyReward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/DailyReward.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/GiftBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/GiftBox.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/GlowWheel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/GlowWheel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Level Panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Level Panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Panel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/DailyRewardUI/Panel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Documentation/Gley-DailyRewards-Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Documentation/Gley-DailyRewards-Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/CalendarExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/CalendarExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/CalendarExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/CalendarExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/TimerButtonExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/TimerButtonExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/TimerButtonExample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Example/TimerButtonExample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Banner.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Calendar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_CloseButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_CloseButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_CoinPlate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_CoinPlate.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Available.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Available.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Claimed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Claimed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Locked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Locked.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_Day_Selected.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_PanelBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_PanelBg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_ScrollBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_ScrollBg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_ScrollButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/DR_ScrollButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/GleyDailyRewards.spriteatlas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/GleyDailyRewards.spriteatlas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/Logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Graphics/Sprites/Logo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/CalendarPopup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/CalendarPopup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/CalendarPopupCanvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/CalendarPopupCanvas.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/DayButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/Replace Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/Replace Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/RewardButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Prefabs/RewardButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Resources/DailyRewardsSettingsData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Resources/DailyRewardsSettingsData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Calendar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Calendar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarDayProperties.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarDayProperties.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarPopup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarPopup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/DailyRewardsSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/DailyRewardsSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/DayButtonScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/DayButtonScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Editor/SettingsWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Editor/SettingsWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimeMethods.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimeMethods.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonIDs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonIDs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonProperties.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonProperties.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerButtonScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerProperties.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/TimerProperties.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/ValueFormatterFunction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/ValueFormatterFunction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/Version.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/BoltSupport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/BoltSupport/DailyRewardsBoltSupport.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/BoltSupport/DailyRewardsBoltSupport.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport/GetRemainingTime.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport/GetRemainingTime.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport/OpenCalendar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport/OpenCalendar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport/TimerButtonClicked.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/VisiualScriptingSupport/PlaymakerSupport/TimerButtonClicked.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GoogleManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/AddFriendAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/AddFriendAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/AlphaAnim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/AlphaAnim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/AnimateGameTitleMenu.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/AnimateGameTitleMenu.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Arrow.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Arrow.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ChangeAlpha.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ChangeAlpha.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ChatWindowWinnerScene.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ChatWindowWinnerScene.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/DailyRewardButton.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/DailyRewardButton.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/DailyRewardButton.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/DailyRewardButton.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Dialog.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Dialog.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Dice.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Dice.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/FriendsMask.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/FriendsMask.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/GameObject.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/GameObject.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/GameTitle.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/GameTitle.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Hide.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Hide.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/HideScreen.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/HideScreen.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Highlight.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Highlight.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image 2.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image 2.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image 3.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image 3.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Image.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/InvitationDialog.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/InvitationDialog.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/InvitationDialog.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/InvitationDialog.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/LudoPawnIndicator.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/LudoPawnIndicator.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Menu_Effect.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Menu_Effect.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Menu_Effect.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/Menu_Effect.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/MessageBubble.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/MessageBubble.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/MessageBubbleAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/MessageBubbleAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/MessageBubbleMenu.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/MessageBubbleMenu.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/RollDiceAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/RollDiceAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowBubble.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowBubble.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowBubbleMenu.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowBubbleMenu.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowMenuAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowMenuAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowScreen.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/ShowScreen.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/YourTurnArrowAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/YourTurnArrowAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/progressCircle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/progressCircle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/showMessagesDialog.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/showMessagesDialog.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/smallRect.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Animations/smallRect.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Fonts/MyriadWebPro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Fonts/MyriadWebPro-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/BallMaterial.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/BallMaterial.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/BallPotedMaterial.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/BallPotedMaterial.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/BumpersMaterial.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/BumpersMaterial.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/CueMaskMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/CueMaskMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/CueMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/CueMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/TableMaterial.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Materials/TableMaterial.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/ChatShopListObject.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/ChatShopListObject.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/CoinInApp.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/CoinInApp.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/EmojiPrefabStore.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/EmojiPrefabStore.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/EmojiShopListObject.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/EmojiShopListObject.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/FriendsMask.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/FriendsMask.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Game/UIInvitation.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Game/UIInvitation.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Game/UIMain.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Game/UIMain.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/GameButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/GameButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/Dice.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/Dice.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/LudoPawn.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/LudoPawn.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/PathObject.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/LudoPrefabs/PathObject.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/CueShopListObject.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/CueShopListObject.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/FriendGUIObject.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/FriendGUIObject.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/FriendGUIPlayed.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/FriendGUIPlayed.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/PlayersMatchAvatarPlayfab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/PlayersMatchAvatarPlayfab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/ProgressBar.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/Menu/ProgressBar.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MenuEffect.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MenuEffect.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MessageBubble.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MessageBubble.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MessageButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MessageButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MessageButtonGame.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/MessageButtonGame.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/PlayerInfo.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/PlayerInfo.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SelectProfilePictureButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SelectProfilePictureButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SendChatMessageButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SendChatMessageButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SendEmojiMessageButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SendEmojiMessageButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SettingsWindow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/SettingsWindow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/TableButton.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Prefabs/TableButton.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/GameScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/GameScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/GameSceneSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/GameSceneSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplash/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplashSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/LoginSplashSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuScene/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuSceneSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scenes/MenuSceneSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/AddChatBubbles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/AddChatBubbles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/AddEmojiBubbles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/AddEmojiBubbles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/AdsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/AdsController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/BuyItemControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/BuyItemControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChangeStoreTabsColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChangeStoreTabsColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChatShopController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChatShopController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChatWindowController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ChatWindowController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/CheckIfPlayerIsFriend.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/CheckIfPlayerIsFriend.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ClearPlayerPrefs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ClearPlayerPrefs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ConnectionLostController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ConnectionLostController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ControlAvatars.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ControlAvatars.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/DialogGUIController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/DialogGUIController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/DiceController2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/DiceController2.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/EditProfileController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/EditProfileController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/EmojiShopController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/EmojiShopController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/EnterPrivateCodeDialogController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/EnterPrivateCodeDialogController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Enums.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Enums.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/FacebookFriendsMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/FacebookFriendsMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/FacebookManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/FacebookManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/FriendsFilteringScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/FriendsFilteringScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/CameraAdjustSize.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/CameraAdjustSize.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/CueController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/CueController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/GameControllerScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/GameControllerScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/HUDFPS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/HUDFPS.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/PlayerObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/PlayerObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/StaticStrings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/Game/StaticStrings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameConfigrationController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameConfigrationController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameDiceController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameDiceController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameFinishWindowController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameFinishWindowController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameGUIController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameGUIController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameInitScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameInitScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GlobalVariables.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/GlobalVariables.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/HighlightFollowPawn.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/HighlightFollowPawn.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/IAPController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/IAPController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/IMiniGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/IMiniGame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/InitMenuScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/InitMenuScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/InviteRewardTextScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/InviteRewardTextScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/LudoGameController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/LudoGameController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/LudoPathObjectController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/LudoPathObjectController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/LudoPawnController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/LudoPawnController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MenuEffect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MenuEffect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MultiplayerGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MultiplayerGame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MyPlayerData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/MyPlayerData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PhotonChatListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PhotonChatListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PhotonChatListener2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PhotonChatListener2.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayFabAddFriend.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayFabAddFriend.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayFabFriendScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayFabFriendScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayFabManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayFabManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayerAvatarController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayerAvatarController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayerInfoController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/PlayerInfoController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ProfilePictureController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ProfilePictureController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ReconnectWindowController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/ReconnectWindowController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/SelectedTabluButtonClicked.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/SelectedTabluButtonClicked.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/SetMyData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/SetMyData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/SettingsWindowController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/SettingsWindowController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/StartScriptController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/StartScriptController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/StaticGameVariablesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/StaticGameVariablesController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/UpdateCoinsFrameValue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/UpdateCoinsFrameValue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/UpdatePlayerTimer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/UpdatePlayerTimer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/WindowTransitionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/WindowTransitionController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/WinnerControllerScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/WinnerControllerScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/YouWinMessageChangeSprite.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Scripts/YouWinMessageChangeSprite.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_click.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_click.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_clock.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_clock.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_dice_roll.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_dice_roll.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_in_home.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_in_home.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_my_turn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_my_turn.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_opp_turn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_opp_turn.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_player_join.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_player_join.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_player_left_room.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_player_left_room.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_token_killed.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_token_killed.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_token_move.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_token_move.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_win.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sounds/sfx_win.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/ChatMessageButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/ChatMessageButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/avatarMask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/avatarMask.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/message_bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/message_bubble.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/progress_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/progress_circle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/status_indicator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/DontEdit/status_indicator.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/ButtonGrey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/ButtonGrey.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/CheckBoxChecked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/CheckBoxChecked.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/Coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/Coin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/DecreaseBidButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/DecreaseBidButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/DialogWindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/DialogWindow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/IncreaseBidButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/IncreaseBidButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/LostConnectionIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/LostConnectionIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MainButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MainButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/Menu1vs1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/Menu1vs1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/Menu4P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/Menu4P.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuButtonTopImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuButtonTopImage.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuLinkFacebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuLinkFacebook.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuPrivate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuPrivate.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuStore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuStore.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuSwitchAccount.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/MenuSwitchAccount.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/RateButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/RateButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/SettingsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/SettingsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/WatchVideoIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/WatchVideoIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/WindowTitle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/WindowTitle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/avatarBorder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/avatarBorder.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/avatarBorderGame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/avatarBorderGame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/avatars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/avatars.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/checkBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/checkBox.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/crown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/crown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/dailyBonusIndicator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/dailyBonusIndicator.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/dailyRewardButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/dailyRewardButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/editButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/editButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/emoji.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/emoji_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/emoji_icons.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/facebook_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/facebook_login.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/guest_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/guest_login.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/infoButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/infoButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/invitable_friend_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/invitable_friend_border.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/inviteToJoinButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/inviteToJoinButton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/invite_button_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/invite_button_blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/invite_button_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/invite_button_green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/menu_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/menu_button.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/playable_friend_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/playable_friend_border.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/positions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/positions.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/shareIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/shareIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/star.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/trash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/GUI/trash.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceInit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceInit.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceRoll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceRoll.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceValues.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/diceValues.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/ludoLockHome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/ludoLockHome.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/ludoPawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/ludoPawn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/ludoboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/ludoboard.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/pawnIndicator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/pawnIndicator.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/pawnIndicator2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/Game/pawnIndicator2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludo Masters/Sprites/Edit/app_icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Menulanguage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Menulanguage.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/PickerWheel/Prefabs/PickerWheel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PickerWheel/Prefabs/PickerWheel.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PickerWheel/Scripts/PickerWheel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PickerWheel/Scripts/PickerWheel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayFabSDK/Public/PlayFabClientAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayFabSDK/Public/PlayFabClientAPI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PushNotification.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PushNotification.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LoginSplash.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LoginSplash.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SplashLanguage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SplashLanguage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Buy btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Buy btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Close btn yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Close btn yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Close btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Close btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Daily rewards btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Daily rewards btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Edit btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Edit btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Get Fre coins btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Get Fre coins btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Google Login btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Google Login btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Green btn bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Green btn bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Guest Login btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Guest Login btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Home btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Home btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Join btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Join btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Massage bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Massage bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Menu btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Menu btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Spin btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Spin btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Start btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Start btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Store btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/Store btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/add icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/add icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/ash btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/ash btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/checkmark bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/checkmark bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/checkmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/checkmark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/ludo board without pawns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/ludo board without pawns.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/red button bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Buttons/red button bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/2 players icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/2 players icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/4 players icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/4 players icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Game Title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Game Title.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Home Page Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Home Page Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Invite Friends bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Invite Friends bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Private room btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Private room btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Switch account btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Common/Main Menu/Switch account btn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityMainThreadDispatcher.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityMainThreadDispatcher.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UserInfoDisplay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UserInfoDisplay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/menutitla.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/menutitla.anim.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +1551,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "UI",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;UI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/6000.0.59f2/Unity.app/Contents/MacOS/Unity" />
@@ -99,15 +1605,13 @@
       <option name="useMixedMode" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="1400">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="1400" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="runtimes">
-        <list>
-          <MonoRuntime />
-        </list>
+        <list />
       </option>
       <option name="selectedOptions">
         <list />
@@ -130,6 +1634,7 @@
       <workItem from="1762255884321" duration="333000" />
       <workItem from="1762416917099" duration="1471000" />
       <workItem from="1762505820890" duration="1953000" />
+      <workItem from="1762682311171" duration="1961000" />
     </task>
     <servers />
   </component>
@@ -167,10 +1672,10 @@
           <line>160</line>
           <properties documentPath="$PROJECT_DIR$/Assets/GleyPlugins/DailyRewards/Scripts/CalendarManager.cs" containingFunctionPresentation="Method 'TimeExpired'">
             <startOffsets>
-              <option value="5210" />
+              <option value="-1" />
             </startOffsets>
             <endOffsets>
-              <option value="5268" />
+              <option value="-1" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />
