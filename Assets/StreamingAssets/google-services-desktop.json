@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "419171290655",
-    "project_id": "ludo-with-friends-25c86",
-    "storage_bucket": "ludo-with-friends-25c86.firebasestorage.app"
+    "project_number": "152386388199",
+    "project_id": "unity-ludo-login",
+    "storage_bucket": "unity-ludo-login.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:419171290655:android:c4552b86cc5c72f43fcf2a",
+        "mobilesdk_app_id": "1:152386388199:android:4e9c217df6a8ca6a476242",
         "android_client_info": {
-          "package_name": "com.ssgamingunity3d.googlesignin"
+          "package_name": "com.coreloopstudio"
         }
       },
       "oauth_client": [
         {
-          "client_id": "240013857836-8p56merrbu3qs6spap2eikv01c62sn5l.apps.googleusercontent.com",
+          "client_id": "152386388199-8md14ep7092ul9h4ce5c85q1ap4i6qsn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ssgamingunity3d.googlesignin",
-            "certificate_hash": "8ec101801ff0e8d958c885d912338653015346eb"
+            "package_name": "com.coreloopstudio",
+            "certificate_hash": "6fc462498c4bc3945785e8d1f6b266f3f1833f42"
           }
         },
         {
-          "client_id": "240013857836-20pl4huabi7chr17ss8pg7qobd09caae.apps.googleusercontent.com",
+          "client_id": "152386388199-3lctehml9rubg3bqr8q4oh0fbv922iqk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmMCtwzRoUsKrYcUmLVXYyyzRVVsEPYJA"
+          "current_key": "AIzaSyAdU6qLwBkF4gg90-1bFa0tpNbs04cvwKw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "240013857836-20pl4huabi7chr17ss8pg7qobd09caae.apps.googleusercontent.com",
+              "client_id": "152386388199-3lctehml9rubg3bqr8q4oh0fbv922iqk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -3076,6 +3076,12 @@ internal class NetworkingPeer : LoadBalancingPeer, IPhotonPeerListener
         int serverTime = (int)evData[(byte)6];
         int instantiationId = (int)evData[(byte)7];
 
+        if (PhotonView.Find(instantiationId))
+        {
+            Debug.Log("PHOTON WITH VIEW ID " + instantiationId + " ALREADY EXISTS - HALTING INSTANTIATION");
+            return null;
+        }
+        
         Vector3 position;
         if (evData.ContainsKey((byte)1))
         {
@@ -3499,6 +3505,48 @@ internal class NetworkingPeer : LoadBalancingPeer, IPhotonPeerListener
         return result;
     }
 
+    // public void RegisterPhotonView(PhotonView netView)
+    // {
+    //     if (!Application.isPlaying)
+    //     {
+    //         this.photonViewList = new Dictionary<int, PhotonView>();
+    //         return;
+    //     }
+    //
+    //     if (netView.viewID == 0)
+    //     {
+    //         // don't register views with ID 0 (not initialized). they register when a ID is assigned later on
+    //         Debug.Log("PhotonView register is ignored, because viewID is 0. No id assigned yet to: " + netView);
+    //         return;
+    //     }
+    //
+    //     PhotonView listedView = null;
+    //     bool isViewListed = this.photonViewList.TryGetValue(netView.viewID, out listedView);
+    //     if (isViewListed)
+    //     {
+    //         // if some other view is in the list already, we got a problem. it might be undestructible. print out error
+    //         if (netView != listedView)
+    //         {
+    //             Debug.LogError(string.Format("PhotonView ID duplicate found: {0}. New: {1} old: {2}. Maybe one wasn't destroyed on scene load?! Check for 'DontDestroyOnLoad'. Destroying old entry, adding new.", netView.viewID, netView, listedView));
+    //         }
+    //         else
+    //         {
+    //             return;
+    //         }
+    //
+    //         this.RemoveInstantiatedGO(listedView.gameObject, true);
+    //     }
+    //
+    //     // Debug.Log("adding view to known list: " + netView);
+    //     this.photonViewList.Add(netView.viewID, netView);
+    //     //Debug.LogError("view being added. " + netView);	// Exit Games internal log
+    //
+    //     if (PhotonNetwork.logLevel >= PhotonLogLevel.Full)
+    //     {
+    //         Debug.Log("Registered PhotonView: " + netView.viewID);
+    //     }
+    // }
+    
     public void RegisterPhotonView(PhotonView netView)
     {
         if (!Application.isPlaying)
@@ -3527,19 +3575,21 @@ internal class NetworkingPeer : LoadBalancingPeer, IPhotonPeerListener
             {
                 return;
             }
-
-            this.RemoveInstantiatedGO(listedView.gameObject, true);
+         
+            // Stop Photon from removing instantiated objects if they already exist - we need them in case of a reconnect
+            //this.RemoveInstantiatedGO(listedView.gameObject, true); // I commented this out
+            return; // I added this
         }
-
         // Debug.Log("adding view to known list: " + netView);
         this.photonViewList.Add(netView.viewID, netView);
-        //Debug.LogError("view being added. " + netView);	// Exit Games internal log
+        //Debug.LogError("view being added. " + netView);    // Exit Games internal log
 
         if (PhotonNetwork.logLevel >= PhotonLogLevel.Full)
         {
             Debug.Log("Registered PhotonView: " + netView.viewID);
         }
     }
+    
 
     ///// <summary>
     ///// Will remove the view from list of views (by its ID).
