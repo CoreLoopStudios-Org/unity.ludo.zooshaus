@@ -49,9 +49,9 @@ public class GoogleManager : MonoBehaviour
             return;
         }
 
-#if UNITY_EDITOR
-        UpdateStatus("🧩 Running in Unity Editor — Google Sign-In is simulated.");
-#else
+// #if UNITY_EDITOR
+//         UpdateStatus("🧩 Running in Unity Editor — Google Sign-In is simulated.");
+// #else
         // ✅ Auto-login if previous Google session exists
         if (PlayerPrefs.GetString("LoggedType") == "Google")
         {
@@ -59,20 +59,20 @@ public class GoogleManager : MonoBehaviour
             GoogleSignIn.Configuration = configuration;
             GoogleSignIn.DefaultInstance.SignInSilently().ContinueWith(OnAuthenticationFinished);
         }
-#endif
+//#endif
     }
 
     public void OnGoogleSignInClick()
     {
-#if UNITY_EDITOR
-        // ✅ Simulated login in Unity Editor
-        UpdateStatus("🧩 Simulating Google Sign-In in Editor...");
-        SimulateEditorLogin();
-#else
+// #if UNITY_EDITOR
+//         // ✅ Simulated login in Unity Editor
+//         UpdateStatus("🧩 Simulating Google Sign-In in Editor...");
+//         SimulateEditorLogin();
+// #else
         UpdateStatus("🔹 Starting Google Sign-In...");
         GoogleSignIn.Configuration = configuration;
         GoogleSignIn.DefaultInstance.SignIn().ContinueWith(OnAuthenticationFinished);
-#endif
+//#endif
     }
 
     private void SimulateEditorLogin()
