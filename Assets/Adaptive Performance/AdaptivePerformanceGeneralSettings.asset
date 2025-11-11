@@ -28,7 +28,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.AdaptivePerformance::UnityEngine.AdaptivePerformance.AdaptivePerformanceManagerSettings
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
-  m_Loaders: []
+  m_Loaders:
+  - {fileID: 11400000, guid: c47348ac23bd548a6b4e971b9b942a99, type: 2}
 --- !u!114 &-2676242731803011626
 MonoBehaviour:
   m_ObjectHideFlags: 2

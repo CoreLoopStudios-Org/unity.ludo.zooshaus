@@ -12,7 +12,7 @@ public class GoogleManager : MonoBehaviour
 {
     [Header("Google Settings")]
     [Tooltip("Paste your Google Web Client ID here (from Google Cloud Console)")]
-    public string webClientId = "240013857836-20pl4huabi7chr17ss8pg7qobd09caae.apps.googleusercontent.com";
+    public string webClientId = "2722373905981-8h07papjs7bubdb7abpbn3rnogsr6trs.apps.googleusercontent.com";
 
     [Header("UI")]
     public Text statusText; // ✅ Text to show status on mobile or Editor

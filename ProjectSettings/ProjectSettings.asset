@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: zooshaus
-  productName: Ludo With Friends
+  productName: Ludodots
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0.14117648, b: 0.3372549, a: 1}
@@ -40,9 +40,9 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos:
-  - logo: {fileID: 21300000, guid: 5eca431ce7b1fad4481cf1059bf72452, type: 3}
+  - logo: {fileID: 21300000, guid: 6408661f74fb8413fa1e7f508255695b, type: 3}
     duration: 2
-  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 5eca431ce7b1fad4481cf1059bf72452, type: 3}
+  m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 6408661f74fb8413fa1e7f508255695b, type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1920
   defaultScreenHeight: 1080
@@ -144,7 +144,9 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 098402d5960d0429683f63ba772f2c21, type: 2}
+  - {fileID: -2676242731803011626, guid: 7d6a5902edd1c4c4a8c943e6210f910b, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -166,7 +168,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.ssgamingunity3d.googlesignin
+    Android: com.zoohas.LudoDots
     iPhone: com.ludo.withfriends
   buildNumber:
     Standalone: 0
@@ -176,7 +178,7 @@ PlayerSettings:
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 24
-  AndroidTargetSdkVersion: 0
+  AndroidTargetSdkVersion: 34
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -268,8 +270,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: ludowithfriends.keystore'
-  AndroidKeyaliasName: gablin
+  AndroidKeystoreName: /Users/betopia/UnityProject/KeystoreOfLudoDots/user.keystore
+  AndroidKeyaliasName: ludodots
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
@@ -297,7 +299,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 5eca431ce7b1fad4481cf1059bf72452, type: 3}
+      m_Icon: {fileID: 2800000, guid: 6408661f74fb8413fa1e7f508255695b, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -912,7 +914,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
