@@ -1,75 +1,35 @@
 {
   "project_info": {
-    "project_number": "722373905981",
-    "project_id": "ludo-dots",
-    "storage_bucket": "ludo-dots.firebasestorage.app"
+    "project_number": "152386388199",
+    "project_id": "unity-ludo-login",
+    "storage_bucket": "unity-ludo-login.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:722373905981:android:60fc16638b40af8d07a454",
+        "mobilesdk_app_id": "1:152386388199:ios:344be513082b3979476242",
         "android_client_info": {
-          "package_name": "com.zoohas.LudoDots"
+          "package_name": "com.coreloopstudio"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "722373905981-8h07papjs7bubdb7abpbn3rnogsr6trs.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBbL28YWr03dtiP29Ja3_1vfE7I1UlYgNY"
+          "current_key": "AIzaSyD_Kf97_tl9zzlkRVduNvp64id5vdBoRGc"
         }
       ],
       "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "722373905981-8h07papjs7bubdb7abpbn3rnogsr6trs.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:722373905981:android:ea806ca0cdcfd7e107a454",
-        "android_client_info": {
-          "package_name": "com.zooshaus.Ludodots"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "722373905981-7qa2uk205d7m9cseaneq7va8apj0hd58.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.zooshaus.Ludodots",
-            "certificate_hash": "2b207f4e64c17d8af32a6540f082ca4658a36953"
-          }
+        "analytics_service": {
+          "status": 0
         },
-        {
-          "client_id": "722373905981-8h07papjs7bubdb7abpbn3rnogsr6trs.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBbL28YWr03dtiP29Ja3_1vfE7I1UlYgNY"
-        }
-      ],
-      "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "722373905981-8h07papjs7bubdb7abpbn3rnogsr6trs.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1
         }
-      }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152386388199-1skta60ukl4h4gl8q120m7olde9nkqc5.apps.googleusercontent.com"
+        }
+      ]
     }
   ],
   "configuration_version": "1"
