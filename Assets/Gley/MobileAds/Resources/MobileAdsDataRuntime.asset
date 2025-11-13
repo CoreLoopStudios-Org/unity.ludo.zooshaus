@@ -11,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 940df1a5021160d42b896ca3c766993a, type: 3}
   m_Name: MobileAdsDataRuntime
-  m_EditorClassIdentifier: Assembly-CSharp::Gley.MobileAds.Internal.MobileAdsData
+  m_EditorClassIdentifier: 
   consentCanvas: {fileID: 0}
   consentPopup: {fileID: 0}
   androidAdvertiser:
@@ -20,11 +20,11 @@ MonoBehaviour:
       platform: 0
       enabled: 1
       appId:
-        id: ca-app-pub-1016691117788811~6016029148
+        id: ca-app-pub-3940256099942544~3347511713
         displayName: App ID
         required: 1
       idBanner:
-        id: ca-app-pub-3940256099942544/6300978111
+        id: ca-app-pub-3940256099942544/921458974
         displayName: Banner ID
         required: 1
       idMRec:
@@ -47,7 +47,7 @@ MonoBehaviour:
         id: 
         displayName: App Open ID
         required: 1
-      testMode: 0
+      testMode: 1
       testDevice: 
       debugGeography: 0
     directedForChildren: 0

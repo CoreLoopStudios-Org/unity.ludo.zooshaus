@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: zooshaus
+  companyName: zooshausV1
   productName: Ludodots
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -144,9 +144,7 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0
-  preloadedAssets:
-  - {fileID: 11400000, guid: 098402d5960d0429683f63ba772f2c21, type: 2}
-  - {fileID: -2676242731803011626, guid: 7d6a5902edd1c4c4a8c943e6210f910b, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -168,7 +166,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.zoohas.LudoDots
+    Android: com.zooshausV1.Ludodots
     iPhone: com.ludo.withfriends
   buildNumber:
     Standalone: 0
@@ -270,7 +268,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: /Users/betopia/UnityProject/KeystoreOfLudoDots/user.keystore
+  AndroidKeystoreName: H:/Smt/Keystore/Ludodots.keystore
   AndroidKeyaliasName: ludodots
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0

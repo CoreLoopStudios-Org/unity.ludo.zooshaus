@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
   <string name="gcm_defaultSenderId" translatable="false">722373905981</string>
   <string name="google_storage_bucket" translatable="false">ludo-dots.firebasestorage.app</string>
   <string name="project_id" translatable="false">ludo-dots</string>
   <string name="google_api_key" translatable="false">AIzaSyBbL28YWr03dtiP29Ja3_1vfE7I1UlYgNY</string>
   <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBbL28YWr03dtiP29Ja3_1vfE7I1UlYgNY</string>
-  <string name="google_app_id" translatable="false">1:722373905981:android:60fc16638b40af8d07a454</string>
+  <string name="google_app_id" translatable="false">1:722373905981:android:ea806ca0cdcfd7e107a454</string>
+  <string name="default_android_client_id" translatable="false">722373905981-7qa2uk205d7m9cseaneq7va8apj0hd58.apps.googleusercontent.com</string>
   <string name="default_web_client_id" translatable="false">722373905981-8h07papjs7bubdb7abpbn3rnogsr6trs.apps.googleusercontent.com</string>
 </resources>
